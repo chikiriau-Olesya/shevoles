@@ -1,0 +1,189 @@
+.wrapper__text {
+  margin-bottom: 40px;
+}
+
+.wrapper__text h1 {
+  font-size: 6.59vw;
+  line-height: 105.5%;
+  letter-spacing: -0.034em;
+  text-transform: uppercase;
+  color: #0E0E0E;
+  margin-bottom: 32px;
+}
+
+.wrapper__text__blocks {
+  display: flex;
+}
+
+.wrapper__text__blocks__item {
+  width: 50%;
+}
+
+.wrapper__text__blocks__item:first-of-type {
+  margin-right: 24px;
+}
+
+.wrapper__text__blocks__item p {
+  margin-bottom: 21px;
+  font-size: 21px;
+  font-weight: 500;
+  line-height: 120%;
+  letter-spacing: -0.034em;
+  color: #0E0E0E;
+}
+
+/* СТИЛИ ДЛЯ КАРТИНОК */
+.pic-big,
+.pic-blocks,
+.text-pic {
+  margin-bottom: 40px;
+}
+
+.pic-big {
+  width: 100%;
+  height: 38vw;
+}
+
+.pic-big,
+.pic-block,
+.text-pic__inner {
+  border-radius: 32px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.pic-blocks {
+  display: flex;
+}
+
+.pic-block {
+  width: 50%;
+  height: 30vw;
+}
+.pic-block:first-of-type {
+  margin-right: 20px;
+}
+
+.text-pic {
+  display: flex;
+}
+.text-pic__paragraph {
+  width: 40%;
+  margin-right: 20px;
+}
+.text-pic__inner {
+  width: 100%;
+  height: 38vw;
+}
+.text-pic-reverse .text-pic__paragraph {
+  margin-right: 0;
+}
+.text-pic-reverse .text-pic__inner {
+  margin-right: 20px;
+}
+
+.inner__footer {
+  margin-top: 40px;
+}
+.inner__footer__links {
+  margin-top: 40px;
+  display: flex;
+  justify-content: space-between;
+}
+.inner__footer__links a {
+  font-weight: 500;
+  font-size: 5vw;
+  line-height: 105.5%;
+  letter-spacing: -0.034em;
+  text-transform: uppercase;
+  color: #0E0E0E;
+}
+.inner__footer__links a:hover {
+  color: #313030;
+}
+
+@media (max-width: 425px) {
+  .wrapper__text {
+    padding-top: 15vw;
+  }
+
+  .wrapper__text h1 {
+    font-size: 12vw;
+    margin-bottom: 24px;
+  }
+
+  .wrapper__text__blocks {
+    flex-direction: column;
+  }
+
+  .wrapper__text__blocks__item {
+    width: 100%;
+  }
+
+  .wrapper__text__blocks__item p {
+    margin-bottom: 20px;
+    font-size: 18px;
+  }
+
+  .pic-big,
+  .pic-block,
+  .text-pic__inner {
+    border-radius: 16px;
+    width: 100%;
+    height: 52vw;
+  }
+
+  .pic-big,
+  .pic-blocks,
+  .text-pic {
+    margin-bottom: 24px;
+  }
+
+  .pic-blocks {
+    flex-direction: column;
+  }
+
+  .pic-block:first-of-type {
+    margin-right: 0;
+    margin-bottom: 24px;
+  }
+
+  .text-pic {
+    flex-direction: column;
+  }
+
+  .text-pic__paragraph {
+    width: 100%;
+    margin-right: 0px;
+    margin-bottom: 12px;
+  }
+
+  .inner__footer__links a {
+    font-size: 8vw;
+  }
+}
+/* Контент наполнение картинками */
+
+/* POINT */
+.point1 {
+  background-image: url('../images/point.jpg');
+}
+.point2 {
+  background-image: url('../images/point2.jpg');
+}
+.point3 {
+  background-image: url('../images/point3.jpg');
+}
+.point4 {
+  background-image: url('../images/point4.jpg');
+}
+.point5 {
+  background-image: url('../images/point5.jpg');
+}
+.point6 {
+  background-image: url('../images/point6.jpg');
+}
+.point7 {
+  background-image: url('../images/point7.jpg');
+}
