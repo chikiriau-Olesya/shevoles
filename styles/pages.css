@@ -71,6 +71,9 @@
 .text-pic__paragraph {
   width: 40%;
   margin-right: 20px;
+  margin-top: 24px;
+  font-weight: 600;
+  line-height: 120%;
 }
 .text-pic__inner {
   width: 100%;
@@ -186,4 +189,181 @@
 }
 .point7 {
   background-image: url('../images/point7.jpg');
+}
+
+/* VTB */
+.vtb1 {
+  background-image: url('../images/vtb1.jpg');
+}
+.vtb2 {
+  background-image: url('../images/vtb2.jpg');
+}
+.vtb3 {
+  background-image: url('../images/vtb3.jpg');
+}
+.vtb4 {
+  background-image: url('../images/vtb4.jpg');
+}
+.vtb5 {
+  background-image: url('../images/vtb5.jpg');
+}
+.vtb6 {
+  background-image: url('../images/vtb6.jpg');
+}
+.vtb7 {
+  background-image: url('../images/vtb7.jpg');
+}
+.vtb8 {
+  background-image: url('../images/vtb8.jpg');
+}
+.vtb9 {
+  background-image: url('../images/vtb9.jpg');
+}
+.vtb10 {
+  background-image: url('../images/vtb10.jpg');
+}
+.vtb11 {
+  background-image: url('../images/vtb11.jpg');
+}
+.vtb12 {
+  background-image: url('../images/vtb12.jpg');
+}
+.vtb13 {
+  background-image: url('../images/vtb13.jpg');
+}
+
+/* SURFACE */
+.surface1 {
+  background-image: url('../images/surface1.jpg');
+}
+.surface2 {
+  background-image: url('../images/surface2.jpg');
+}
+.surface3 {
+  background-image: url('../images/surface3.jpg');
+}
+.surface4 {
+  background-image: url('../images/surface4.jpg');
+}
+.surface5 {
+  background-image: url('../images/surface5.jpg');
+}
+.surface6 {
+  background-image: url('../images/surface6.jpg');
+}
+.surface7 {
+  background-image: url('../images/surface7.jpg');
+}
+.surface8 {
+  background-image: url('../images/surface8.jpg');
+}
+.surface9 {
+  background-image: url('../images/surface9.jpg');
+}
+.surface10 {
+  background-image: url('../images/surface10.jpg');
+}
+.surface11 {
+  background-image: url('../images/surface11.jpg');
+}
+.surface12 {
+  background-image: url('../images/surface12.jpg');
+}
+
+
+/* SURFACE IDENTITY */
+.surf1 {
+  background-image: url('../images/surf1.jpg');
+}
+.surf2 {
+  background-image: url('../images/surf2.jpg');
+}
+.surf3 {
+  background-image: url('../images/surf3.jpg');
+}
+.surf4 {
+  background-image: url('../images/surf4.jpg');
+}
+.surf5 {
+  background-image: url('../images/surf5.jpg');
+}
+.surf6 {
+  background-image: url('../images/surf6.jpg');
+}
+.surf7 {
+  background-image: url('../images/surf7.jpg');
+}
+.surf8 {
+  background-image: url('../images/surf8.jpg');
+}
+.surf10 {
+  background-image: url('../images/surf10.jpg');
+}
+.surf11 {
+  background-image: url('../images/surf11.jpg');
+}
+.surf12 {
+  background-image: url('../images/surf12.jpg');
+}
+.surf13 {
+  background-image: url('../images/surf13.jpg');
+}
+.surf14 {
+  background-image: url('../images/surf14.jpg');
+}
+
+/* UNLEASH */
+.unleash1 {
+  background-image: url('../images/unleash1.jpg');
+}
+.unleash2 {
+  background-image: url('../images/unleash2.jpg');
+}
+.unleash3 {
+  background-image: url('../images/unleash3.jpg');
+}
+.unleash4 {
+  background-image: url('../images/unleash4.jpg');
+}
+.unleash5 {
+  background-image: url('../images/unleash5.jpg');
+}
+.unleash6 {
+  background-image: url('../images/unleash6.jpg');
+}
+.unleash7 {
+  background-image: url('../images/unleash7.jpg');
+}
+.unleash8 {
+  background-image: url('../images/unleash8.jpg');
+}
+.unleash9 {
+  background-image: url('../images/unleash9.jpg');
+}
+.unleash10 {
+  background-image: url('../images/unleash10.jpg');
+}
+.unleash11 {
+  background-image: url('../images/unleash11.jpg');
+}
+.unleash12 {
+  background-image: url('../images/unleash12.jpg');
+}
+.unleash13 {
+  background-image: url('../images/unleash13.jpg');
+}
+.unleash14 {
+  background-image: url('../images/unleash14.jpg');
+}
+.unleash15 {
+  background-image: url('../images/unleash15.jpg');
+}
+.unleash16 {
+  background-image: url('../images/unleash16.jpg');
+}
+.unleash17 {
+  background-image: url('../images/unleash17.jpg');
+}
+.unleash18 {
+  background-image: url('../images/unleash18.jpg');
 }
